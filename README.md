@@ -1,3 +1,5 @@
+![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)
+
 *This project has been created as part of the 42 curriculum by aseveri.*
 
 ## Description
@@ -61,4 +63,15 @@ Ogni funzione di stampa riceve un puntatore a `flag` intero. Se `write()` fallis
 - [C stdarg.h documentation](https://en.cppreference.com/w/c/variadic) — documentazione sulle funzioni variadiche e `va_list`
 - [Linux Man Pages](https://man7.org/linux/man-pages/) — riferimento generale per le funzioni libc
 
+## Resources
 
+- [Linux Man Pages](https://man7.org/linux/man-pages/) — riferimento principale per il comportamento atteso di ogni funzione
+- [42 Norm](https://github.com/42School/norminette) — norminette per il rispetto delle regole di stile
+
+## Copyright and licensing
+
+Copyright (C) 2026 Alessio Severi
+
+Il codice sorgente contenuto in questo repository è stato scritto da me. Il subject originale appartiene a 42 Roma Elis.
+
+Questo codice sorgente è distribuito sotto la licenza GNU General Public License v3.0. Per maggiori dettagli, consultare il file LICENSE.

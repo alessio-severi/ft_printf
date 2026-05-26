@@ -30,7 +30,7 @@ cc -Wall -Wextra -Werror main.c -L. -lftprintf
 
 ### Struttura del progetto
 
-Il codice è organizzato in tre file sorgente:
+Il codice è organizzato in quattro file sorgente:
 
 - `ft_printf.c` — funzione principale e dispatcher
 - `ft_printf_utils.c` — funzioni di utilità (`ft_strlen`, `ft_strchr`, `ft_print_number`, `ft_putnbr`)

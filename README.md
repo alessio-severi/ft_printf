@@ -62,10 +62,6 @@ Ogni funzione di stampa riceve un puntatore a `flag` intero. Se `write()` fallis
 - [Linux Man Pages — printf](https://man7.org/linux/man-pages/man3/printf.3.html) — riferimento principale per il comportamento atteso
 - [C stdarg.h documentation](https://en.cppreference.com/w/c/variadic) — documentazione sulle funzioni variadiche e `va_list`
 - [Linux Man Pages](https://man7.org/linux/man-pages/) — riferimento generale per le funzioni libc
-
-## Resources
-
-- [Linux Man Pages](https://man7.org/linux/man-pages/) — riferimento principale per il comportamento atteso di ogni funzione
 - [42 Norm](https://github.com/42School/norminette) — norminette per il rispetto delle regole di stile
 
 ## Copyright and licensing
